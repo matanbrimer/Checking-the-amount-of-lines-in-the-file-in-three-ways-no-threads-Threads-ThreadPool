@@ -33,5 +33,6 @@ We created several text files and calculated the total number of lines in these 
    the methods are in the project , you can run them there...
    
 
+![212137662-30c7b67e-1df6-4b11-b124-a38354145e17](https://user-images.githubusercontent.com/48315169/213808726-4ebae658-3889-49bf-9621-bad13481b515.png)
 
    
